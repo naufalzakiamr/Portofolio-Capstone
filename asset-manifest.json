@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portofolio-Capstone/static/css/main.55a8f82e.css",
+    "main.js": "/Portofolio-Capstone/static/js/main.e676a120.js",
+    "static/media/profile.jpg": "/Portofolio-Capstone/static/media/profile.c70af848df6986579580.jpg",
+    "static/media/project2.jpg": "/Portofolio-Capstone/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/androidstudio.png": "/Portofolio-Capstone/static/media/androidstudio.e784bf916ec32f48ca80.png",
+    "static/media/project4.jpg": "/Portofolio-Capstone/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/Portofolio-Capstone/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/php.png": "/Portofolio-Capstone/static/media/php.ca0410e0d0d5b0b06732.png",
+    "static/media/flutter.png": "/Portofolio-Capstone/static/media/flutter.dc18f57b21c0af434d3b.png",
+    "static/media/laravel.png": "/Portofolio-Capstone/static/media/laravel.545b8e53d15a5a6a875e.png",
+    "static/media/project5.jpg": "/Portofolio-Capstone/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/project6.jpg": "/Portofolio-Capstone/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/Portofolio-Capstone/index.html",
+    "static/media/logo.svg": "/Portofolio-Capstone/static/media/logo.13db583b08f02655f405451b583ec0a9.svg",
+    "static/media/logo2.svg": "/Portofolio-Capstone/static/media/logo2.f6597deaa5021b71f839c27ecf425ae2.svg",
+    "main.55a8f82e.css.map": "/Portofolio-Capstone/static/css/main.55a8f82e.css.map",
+    "main.e676a120.js.map": "/Portofolio-Capstone/static/js/main.e676a120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55a8f82e.css",
+    "static/js/main.e676a120.js"
+  ]
+}
